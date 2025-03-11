@@ -1,4 +1,4 @@
-package com.brisa.passthetechnicalinterviewwithjava.node;
+package com.brisa.passthetechnicalinterviewwithjava.node.linkedlist;
 
 public class OtherNode {
   public static void main(String[] args) {
